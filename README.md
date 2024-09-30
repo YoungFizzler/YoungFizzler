@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YoungFizz</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youngfizzler&label=Profile%20views&color=0e75b6&style=flat" alt="youngfizzler" /> </p>
+![](https://img.shields.io/static/v1?label=Profile+views&message=12.3K&color=007ec6)
 
 - 🔭 I’m currently working on [AutoAce](https://github.com/AutoAce-io)
 
