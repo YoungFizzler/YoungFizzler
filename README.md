@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=300&section=header&text=YoungFizz&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=white&height=300&section=header&text=YoungFizz&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm YoungFizz</h1>
 <h3 align="center">A passionate backend developer</h3>
