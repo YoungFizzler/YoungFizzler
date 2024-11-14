@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AutoAce](https://github.com/AutoAce-io)
 
-- 🌱 I’m currently learning **Go & Typescript**
+- 🌱 I’m currently learning **ASCP Cert**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YoungFizzler](https://github.com/YoungFizzler)
 
