@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fizzler@black.com**
 
-- ⚡ Fun fact **I'm just 14**
+- ⚡ Fun fact **I'm just 15**
 
 <p align="left">
 </p>
