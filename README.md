@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youngfizzler&label=Profile%20views&color=0e75b6&style=flat&base=3288" alt="youngfizzler" /> </p>
 
-- 🔭 I’m currently working on [AutoAce](https://github.com/AutoAce-io) & MAKCU
+- 🔭 I’m currently working on [AutoAce](https://github.com/AutoAce-io) & [MAKCU](https://github.com/makcuProject)
 
 - 🌱 I’m currently learning **ASCP Cert**
 
