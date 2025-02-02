@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [AutoAce](https://github.com/AutoAce-io) & [MAKCU](https://github.com/makcuProject)
 
-- 🌱 I’m currently learning **ASCP Cert**
+- 🌱 I’m currently learning **What ever I want**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YoungFizzler](https://github.com/YoungFizzler)
 
-- 💬 Ask me about **Backend!**
+- 💬 Ask me about **Backend/Frontend!**
 
 - 📫 How to reach me **fizzler@black.com**
 
